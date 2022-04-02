@@ -1,4 +1,8 @@
 # EPAM-training
-1.BasicsOfSoftwareCodeDevelopment unit1
+1.BasicsOfSoftwareCodeDevelopment 
 
-2. Algorithmization unit2
+unit1
+
+2. Algorithmization 
+3. 
+4. unit2
